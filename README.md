@@ -9,7 +9,7 @@ A simple CLI tool to upload **files, folders, or text strings** to [Irys](https:
 - Upload **folders** (`irys-upload ./my-folder`)
 - Upload **text** (`irys-upload "Hello Irys"`)
 - Auto-funds your account if balance is too low
-- Works with **Ethereum Sepolia testnet**
+- Works with **Ethereum Sepolia testnet** for now (More token support later)
 
 ---
 
@@ -18,8 +18,8 @@ A simple CLI tool to upload **files, folders, or text strings** to [Irys](https:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/irys-cli.git
-cd irys-cli
+git clone https://github.com/MITCHYUGAN/Irys-Cli.git
+cd Irys-Cli
 npm install
 ```
 
