@@ -1,0 +1,9 @@
+{
+"manifest": "irys/paths",
+"version": "0.1.0",
+"paths": {
+".DS_Store":{"id":"6yf4sZy1hJd5eKFCXPH6CM2TVgaFAR3UwEeLUMkSY2Ys"},
+"text.txt":{"id":"8E8thmj6WSKprTKCcYaRE19o16WzjuoJ73fVEmX5JGXN"},
+"image.png":{"id":"AJHpy71vTyirJJLLzNTVmvXpr7Cy45NkeUHvvwKPjKAQ"}
+}
+}

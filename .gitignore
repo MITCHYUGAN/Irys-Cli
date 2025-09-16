@@ -1,0 +1,6 @@
+.env
+node_modules
+lib/testFunding.js
+folder
+text.txt
+package-lock.json

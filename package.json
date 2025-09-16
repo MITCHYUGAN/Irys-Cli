@@ -1,0 +1,21 @@
+{
+  "name": "irys-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A cli tool you can download and interact with to help you store stuff on Irys.",
+  "bin": {
+    "irys-upload": "./index.js"
+  },
+  "dependencies": {
+    "@irys/upload": "^0.0.15",
+    "@irys/upload-ethereum": "^0.0.16",
+    "dotenv": "^17.2.2"
+  }
+}
