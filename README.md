@@ -69,7 +69,7 @@ irys-upload "Hello from Irys!"
 
 ---
 
-## 🛠 How It Works
+## How It Works
 
 - Uses the Irys SDK to connect to the Sepolia testnet bundler.
 - Checks your Irys balance automatically.
