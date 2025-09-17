@@ -13,7 +13,7 @@ A simple CLI tool to upload **files, folders, or text strings** to [Irys](https:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repo:
 
@@ -30,7 +30,7 @@ npm link
 
 ---
 
-## 🔑 Setup Environment
+## Setup Environment
 
 3. Create a .env file in the project root and add your Sepolia testnet private key:
 ```
@@ -50,7 +50,7 @@ irys-upload ./folder/text.txt
 
 ---
 
-## 📦 Usage Examples
+## Usage Examples
 
 Upload a file:
 ```
